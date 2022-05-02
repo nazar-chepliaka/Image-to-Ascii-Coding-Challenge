@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: 'Courier';
+  color: #FFF;
+  font-size: 3pt;
+  line-height: 2.5pt;
+}
+
+canvas {
+  display: block;
+}
+
+#wrapper {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#inner-wrapper {
+  width: 1000px;
+  position: relative;
+  left: 50%;
+  margin-left: -500px;
+}
+
+#inner-wrapper div {
+  text-align: center;
+}
+
+#video-wrapper {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#video-inner-wrapper {
+  width: 560px;
+  position: relative;
+  left: 50%;
+  margin-left: -280px;
+}
