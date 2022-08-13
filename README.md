@@ -15,7 +15,7 @@
 <img title="https://pin.it/wX6W9XM" alt="https://pin.it/wX6W9XM" src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/pin/_.jpeg" width="500">
 
 <details>
-  <summary>https://uk.wikipedia.org/wiki/Шаблон:Інформатика</summary>
+  <summary><img src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/icon/1936641.png" width="24">https://uk.wikipedia.org/wiki/Шаблон:Інформатика</summary>
   <img title="Апріорна мова" alt="Прапор штучних мов, придуманий передплатниками розсилки CONLANG." src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/flag/Conlangflag.svg.png" width="500">
 </details>
 
