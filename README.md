@@ -12,7 +12,7 @@
 
 + https://uk.wikipedia.org/wiki/Активна_уява
 
-## Див. також
+## The most abovest
 
 + https://uk.m.wikipedia.org/wiki/Яскравість_(кольоросприйняття)
 + https://uk.wikipedia.org/wiki/Штучна_мова
