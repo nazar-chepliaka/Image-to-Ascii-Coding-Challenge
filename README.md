@@ -1,9 +1,9 @@
-# Див. також
+## *
 
 + https://uk.wikipedia.org/wiki/Оптичне_розпізнавання_символів
 + https://docs.opencv.org/4.x/pages.html
 
-## *
+## Див. також
 
 + https://uk.m.wikipedia.org/wiki/Яскравість_(кольоросприйняття)
 + https://uk.wikipedia.org/wiki/Штучна_мова
