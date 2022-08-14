@@ -1,16 +1,10 @@
 ## Also, besides, more & over...
 
-### *
+### * https://docs.opencv.org/4.x/pages.html
 
-+ https://docs.opencv.org/4.x/pages.html
+### ** https://uk.wikipedia.org/wiki/Оптичне_розпізнавання_символів
 
-### **
-
-+ https://uk.wikipedia.org/wiki/Оптичне_розпізнавання_символів
-
-### ***
-
-+ https://uk.wikipedia.org/wiki/Активна_уява
+### *** https://uk.wikipedia.org/wiki/Активна_уява
 
 ## The most against
 
