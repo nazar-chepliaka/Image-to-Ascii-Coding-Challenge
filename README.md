@@ -25,10 +25,10 @@
 </details>
 <details>
   <summary>&lt;in-addition></summary>
-&lt;link>https://github.com/mattermost &lt;/link>
-&lt;image>
-  <img title="XML design for SOAP" alt="XML design for SOAP" src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/screenshot/photo_2022-08-13_19-23-06.jpg" width="500">
-&lt;/image>
+&lt;link>https://github.com/mattermost &lt;/link><br>
+&lt;image><br>
+  <img title="XML design for SOAP" alt="XML design for SOAP" src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/screenshot/photo_2022-08-13_19-23-06.jpg" width="500"><br>
+&lt;/image><br>
 &lt;/in-addition>
 </details>
 
