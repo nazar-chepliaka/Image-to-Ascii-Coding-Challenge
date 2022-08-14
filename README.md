@@ -24,8 +24,12 @@
   <img title="Апріорна мова" alt="Прапор штучних мов, придуманий передплатниками розсилки CONLANG." src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/flag/Conlangflag.svg.png" width="500">
 </details>
 <details>
-  <summary>https://github.com/mattermost</summary>
+  <summary>&lt;in-addition></summary>
+&lt;link>https://github.com/mattermost &lt;/link>
+&lt;image>
   <img title="XML design for SOAP" alt="XML design for SOAP" src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/screenshot/photo_2022-08-13_19-23-06.jpg" width="500">
+&lt;/image>
+&lt;/in-addition>
 </details>
 
 
