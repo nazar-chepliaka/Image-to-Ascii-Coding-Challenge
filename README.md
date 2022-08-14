@@ -6,10 +6,11 @@
 
 ### *** https://uk.wikipedia.org/wiki/Активна_уява
 
+> https://uk.m.wikipedia.org/wiki/Яскравість_(кольоросприйняття)
+
 ## The most against
 
-+ https://uk.m.wikipedia.org/wiki/Яскравість_(кольоросприйняття)
-+ https://uk.wikipedia.org/wiki/Штучна_мова
+> https://uk.wikipedia.org/wiki/Штучна_мова
 
 <img title="https://pin.it/wX6W9XM" alt="https://pin.it/wX6W9XM" src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/pin/_.jpeg" width="500">
 
