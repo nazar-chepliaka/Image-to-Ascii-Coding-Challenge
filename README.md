@@ -1,4 +1,4 @@
-## Besides, & also, & more, and more with over, and over with above...
+## Besides, & also, & more, and more with over...
 
 ### *
 
@@ -12,7 +12,7 @@
 
 + https://uk.wikipedia.org/wiki/Активна_уява
 
-## The most abovest
+## The most against
 
 + https://uk.m.wikipedia.org/wiki/Яскравість_(кольоросприйняття)
 + https://uk.wikipedia.org/wiki/Штучна_мова
