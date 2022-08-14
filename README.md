@@ -4,8 +4,6 @@
 
 ### ** https://uk.wikipedia.org/wiki/Оптичне_розпізнавання_символів
 
-### *** https://uk.wikipedia.org/wiki/Активна_уява
-
 > https://uk.m.wikipedia.org/wiki/Яскравість_(кольоросприйняття)
 
 ## The most against [^1]
@@ -23,6 +21,7 @@
 &lt;image><br>
   <img title="XML design for SOAP" alt="XML design for SOAP" src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/screenshot/photo_2022-08-13_19-23-06.jpg" width="500"><br>
 &lt;/image><br>
+&lt;context>https://uk.wikipedia.org/wiki/Активна_уява<span></span>&lt;/context><br>
 &lt;/in-addition>
 </details>
 
