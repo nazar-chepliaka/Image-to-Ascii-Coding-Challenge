@@ -8,9 +8,8 @@
 
 > https://uk.m.wikipedia.org/wiki/Яскравість_(кольоросприйняття)
 
-## The most against
-
-> https://uk.wikipedia.org/wiki/Штучна_мова
+## The most against [^1]
+[^1]: Штучна мова — Вікіпедія. URL: https://uk.wikipedia.org/wiki/Штучна_мова (дата звернення: 14.08.2022).
 
 <img title="https://pin.it/wX6W9XM" alt="https://pin.it/wX6W9XM" src="https://raw.githubusercontent.com/nazar-chepliaka/Image-to-Ascii-Coding-Challenge/master/assets/pin/_.jpeg" width="500">
 
